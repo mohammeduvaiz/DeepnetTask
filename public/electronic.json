@@ -1,0 +1,193 @@
+{
+    "success": true,
+    "datatype": "ALL DEPARTMENTS",
+    "numOfResults": 11,
+    "data": [
+            {
+                "department_name": "Mobiles",
+                "department_id": "mobiles",
+                "fav_products": [
+                    {"title" : "Iphone 14" ,"price" : "$599"},
+                    {"title" : "Iphone 13 pro" ,"price" : "$399"},
+                    {"title" : "Iphone 14 pro" ,"price" : "$999"},
+                    {"title" : "Iphone 12 " ,"price" : "$199"}
+                ],
+                "department_subCategory":[
+                    {   
+                        "id": "1",
+                        "name":"All Mobile Phones",
+                        "totalProducts":23,
+                        "products":[
+                        {   
+                            "id" : "12",
+                            "title" : "Smart Phones",
+                            "items" : [
+                                "Nokia","Samsung","Apple"
+                            ]
+                        },
+                        {
+                            "id" : "13",
+                            "title" : "Basic Phones",
+                            "items" : [
+                                "Nokia","Nothing","Vivo"
+                            ]
+                        },
+                        {   
+                            "id" : "14",
+                            "title" : "Android Phones",
+                            "items" : [
+                                "Redmi","Samsung","Oppo"
+                            ]
+                        }
+                      ]
+                    },
+                    {   
+                        "id": "2",
+                        "name":"Mobile accessories",
+                        "totalProducts":25,
+                        "products":[
+                        {
+                            "id":"15",
+                            "title" : "Earphone",
+                            "items" : [
+                                "JBL","Beats","Boat"
+                            ]
+                        },
+                        {
+                            "id":"16",
+                            "title" : "Headsets",
+                            "items" : [
+                                "Nokia","Samsung","Apple"
+                            ]
+                        },
+                        {
+                            "id":"17",
+                            "title" : "Wireless",
+                            "items" : [
+                                "Apple","Samsung","Apple"
+                            ]
+                        }
+                      ]
+                    },
+                    {   
+                        "id": "3",
+                        "name":"Cases",
+                        "totalProducts":26,
+                        "products":[
+                        {   
+                            "id":"17",
+                            "title" : "Smart Phones",
+                            "items" : [
+                                "Nokia","Samsung","Apple"
+                            ]
+                        },
+                        {
+                            "id":"18",
+                            "title" : "Basic Phones",
+                            "items" : [
+                                "Nokia","Samsung","Apple"
+                            ]
+                        },
+                        {
+                            "id":"19",
+                            "title" : "Android Phones",
+                            "items" : [
+                                "Nokia","Samsung","Apple"
+                            ]
+                        }
+                      ]
+                    }
+                ],
+                "department_numProducts": 10
+            },
+            {
+                "department_name": "Appliances",
+                "department_id": "appliances",
+                "fav_products": [
+                    {"title" : "Samsung Smart Tv" ,"price" : "$599"},
+                    {"title" : "Whirlpool Washer" ,"price" : "$399"},
+                    {"title" : "AC Smart" ,"price" : "$999"}
+                ],
+                "department_subCategory":[
+                    {   
+                        "id": "1",
+                        "name":"TV",
+                        "totalProducts":10,
+                        "products":[
+                        {   
+                            "id" : "20",
+                            "title" : "Smart TV",
+                            "items" : [
+                                "LG","Samsung","Apple"
+                            ]
+                        },
+                        {
+                            "id" : "21",
+                            "title" : "Basic TV",
+                            "items" : [
+                                "Onida","Samsung","Apple"
+                            ]
+                        },
+                        {   
+                            "id" : "22",
+                            "title" : "Android TV",
+                            "items" : [
+                                "Lenovo","Samsung","MI"
+                            ]
+                        }
+                      ]
+                    },
+                    {   
+                        "id": "2",
+                        "name":"Referigerator",
+                        "totalProducts":5,
+                        "products":[
+                        {
+                            "id":"23",
+                            "title" : "Single Door",
+                            "items" : [
+                                "Whirlpool","Samsung","Hair"
+                            ]
+                        },
+                        {
+                            "id":"24",
+                            "title" : "Double Door",
+                            "items" : [
+                                "Whirlpool","Samsung","Hair"
+                            ]
+                        },
+                        {
+                            "id":"25",
+                            "title" : "Smart",
+                            "items" : [
+                                "Whirlpool","Samsung","Hair"
+                            ]
+                        }
+                      ]
+                    },
+                    {   
+                        "id": "3",
+                        "name":"Ac",
+                        "totalProducts":30,
+                        "products":[
+                        {
+                            "id":"26",
+                            "title" : "Smart Ac",
+                            "items" : [
+                                "LG","Samsung","Onida"
+                            ]
+                        },
+                        {
+                            "id":"27",
+                            "title" : "Compact Ac",
+                            "items" : [
+                                "Panasonic","Samsung"
+                            ]
+                        }
+                      ]
+                    }
+                ],
+                "department_numProducts": 20
+            }
+        ]
+}

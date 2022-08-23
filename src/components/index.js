@@ -1,0 +1,6 @@
+export {default as ScreenOne} from './ScreenOne'
+export {default as ScreenTwo} from './ScreenTwo'
+export {default as ScreenThree} from './ScreenThree'
+export {default as ScreenFour} from './ScreenFour'
+export {default as Header} from './Header'
+export {default as Productdetails} from './ProductTable'
